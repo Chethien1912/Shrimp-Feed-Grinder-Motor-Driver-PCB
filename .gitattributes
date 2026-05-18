@@ -1,0 +1,14 @@
+# GitHub language statistics
+# This is a KiCad hardware project, so generated BOM/cache/backup files should
+# not make the repository appear as an HTML/software project.
+
+bom/** linguist-generated=true
+*.html linguist-generated=true
+*.zip linguist-generated=true
+*-backups/** linguist-generated=true
+fp-info-cache linguist-generated=true
+*.kicad_prl linguist-generated=true
+*.lck linguist-generated=true
+*.bak linguist-generated=true
+*-bak linguist-generated=true
+
